@@ -1,0 +1,8 @@
+{
+  "image": "hexpm/elixir:1.9.4-erlang-22.1.6-ubuntu-focal-20200423",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/apt-packages:1": {
+      "packages": "build-essential git inotify-tools"
+    }
+  }
+}
